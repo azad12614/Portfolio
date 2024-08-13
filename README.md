@@ -20,7 +20,9 @@ https://azad12614.github.io/Portfolio/
 
 **Further Exploration:**
 Check out my latest portfolio built with MERN stack: 
+
 _*Github Repo: [Portfolio_2.0](https://github.com/azad12614/Portfolio_2.0)*_
+
 _*Live Demo: [The 2nd Portfolio Site](https://azad12614.onrender.com/)*_
 
 Feel free to explore my work and connect with me!

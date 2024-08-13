@@ -19,6 +19,6 @@ https://azad12614.github.io/Portfolio/
 - Contact form
 
 **Further Exploration:**
-Check out my latest portfolio built with MERN stack: [Live Demo: The Portfolio Site](https://azad12614.onrender.com/) (technologies used: MongoDB, Express.js, React.js, Node.js)
+Check out my latest portfolio built with MERN stack: [Live Demo: The 2nd Portfolio Site](https://azad12614.onrender.com/) (technologies used: MongoDB, Express.js, React.js, Node.js)
 
 Feel free to explore my work and connect with me!
